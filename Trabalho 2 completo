@@ -1,0 +1,53 @@
+"MPF investiga se algoritimo do INSS nega aposentadorias sem análise de mérito."
+
+Um inquérito civil foi atribuído pela Procuradoria da Repúbluca em Minas Gerais para investigar se o Instituto Nacional de Seguro Social (INSS) estaria 
+recusando pedidos de aposentadoria referente apenas a um sistema automatizado.
+
+"A investigação foi aberta a partir da denúncia de um cidadão indicando possíveis irregularidades na negativa 
+de requerimentos de benefícios previdenciários e assistenciais supostamente causada por um sistema automatizado, 
+que não estaria observando o mérito de forma adequada."
+
+"O sistema foi implementado com o objetivo de diminuir a fila e agilizar as respostas aos beneficiários. 
+Procurado, o INSS afirma que a automatização não alterou o percentual de benefício negados."
+
+Independete de não ter alterado o percentual de benefícios negado, como o INSS afirma, o mérito não estava sendo analisado.
+
+Fonte: https://politicalivre.com.br/2023/03/mpf-investiga-se-algoritmo-do-inss-nega-aposentadorias-sem-analise-de-merito/#gsc.tab=0
+
+De acordo com a fonte, um sistema automatizado estaria automaticamente negando pedidos de aposentadoria sem analisar eles. 
+O algoritimo estaria viciado nesse caso negando todos os pedidos sem mesmo analisar eles. 
+
+Esse exemplo demonstra que um sistema automatizado pode trazer problemas, como nesse caso que o algorítimo é falho e não consegue analisar de maneira 
+efizaz as aposentadorias. Analisar o crédito de uma pessoa é referente a analisar e conferir se ela tem condições de honrar com o compromisso desejado,
+que no caso que está sendo comentado seria on indivíduos buscando se aposentar. 
+
+Referente a este caso em questão, análise de crédito não pode usar algorítimo como esse foi falho, porém se o algorítimo for programado de maneira correta 
+e coerente com requisitos específicos para a aposentadoria ser aprovada ou não, poderia ser uma maneira eficaz e efeciiente de analisar o mérito se desse 
+realmente certo, diferente desse exemplo.
+
+Os algorítimos em geral possuem desvantagens como pode ser visto na fonte: 
+http://200.17.137.109:8081/novobsi/Members/wylliams/introducao-a-programacao/2011.2/Aula%203%20-%20Introducao%20a%20Algoritmos.pdf
+"DESVANTAGENS: Imprecisão; • Pouca confiabilidade (a imprecisão acarreta a desconfiança); • Extensão (normalmente, escreve-se muito para dizer pouca coisa). 
+DESVANTAGENS: Pouca atenção aos dados, não oferecendo recursos para descrevê-los ou representá-los; • Complica-se à medida que o algoritmo cresce."
+
+Através dessa visão também, seria melhor não usar algorítimos para analisar o mérito das pessoas devida a essas características acima, só se ele for 
+extremamente bem programado e justo na hora de sua análise. Isso seria muito eficaz, porém esses riscos não podem ser esquecidos.
+
+O Código de Defesa do Consumidor diz que instituições são obrigadas a justificar crédito negado. "O código de defesa do consumidor declara que as instituições 
+financeiras devem esclarecer o motivo de uma recusa de crédito ao consumidor."
+
+"Embora as instituições de crédito tenham o direito de negar o pedido de empréstimo, 
+o Código de Defesa do Consumidor assegura que o consumidor deve ser informado sempre que houver recusa no pedido, independente de qual seja o motivo."
+
+Aqui as pessoas que tem a aposentadoria negada, consequentemente o dinheiro que elas receberiam aposentadas, devem receber uma justificativa. O algorítimo
+não estava fazendo isso.
+
+Fonte: https://www.proteste.org.br/dinheiro/emprestimo-consorcio-e-financiamento/noticia/teve-o-credito-negado-voce-deve-ser-informado-sobre-o-motivo
+Nesse caso, se o algorítimo for utilizado, como foi de maneira errônea no INSS, ele precisaria justificar essa negativa de crédito. E analisar o mérito
+de maneira correta antes de tomar decisões sobre o pedido.
+
+Uma rede neural é um método em inteligência artificial que ensina os computadores a processar dados de uma maneira inspirada no cérebro humano. 
+É um tipo de processo de  aprendizado de máquina, chamado aprendizado profundo, que usa nós ou neurônios interconectados em uma estrutura 
+em camadas que se assemelha ao cérebro humano. Isso seria ideal para relaizar um algorítimo que análisasse o mérito de maneira certa 
+e julgasse corretamente as aposentadorias. Seria muito eficienter para este caso visto.
+Fonte: https://sites.icmc.usp.br/andre/research/neural/
