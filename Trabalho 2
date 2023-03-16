@@ -49,7 +49,9 @@ de maneira correta antes de tomar decisões sobre o pedido.
 Uma rede neural é um método em inteligência artificial que ensina os computadores a processar dados de uma maneira inspirada no cérebro humano. 
 É um tipo de processo de  aprendizado de máquina, chamado aprendizado profundo, que usa nós ou neurônios interconectados em uma estrutura 
 em camadas que se assemelha ao cérebro humano. Isso seria ideal para relaizar um algorítimo que análisasse o mérito de maneira certa 
-e julgasse corretamente as aposentadorias. Seria muito eficiente para este caso visto.
+e julgasse corretamente as aposentadorias. 
+Árvore de decisão é um outro tipo de algorítimo que realmente funciona para
+julgar decisões, é um método realmente eficiente e eficaz; diferente da rede neural que apenas funciona de modo complementar.
 Fonte: https://sites.icmc.usp.br/andre/research/neural/
 
 Esse conceito retirado da fonte sobre rede neural artificial não está completo. O cérebro humano não está em camadas. O conceito não está errado, apenas incompleto. 
