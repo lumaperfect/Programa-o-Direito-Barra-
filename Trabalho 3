@@ -1,0 +1,42 @@
+A LGPD é bastante ampla. Inclui dados de todos os formatos que identificam ou tornam uma pessoa identificável.
+
+"Art. 1º Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público 
+ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural”.
+-LGPD
+
+Pelo primeiro artigo da LGDP, não importa se a sede de uma organização ou o seu Data Center estão localizados no exterior ou até mesmo no Brasil, 
+todos estão sujeitos à regulação, independentemente se os dados são tratados em meio digital ou físico. 
+Pode ser observado todas as empresas que tratam dados pessoais no território brasileiro ou de pessoas nele localizadas, 
+com poucas exceções específicas, devem se adequar às regras da LGPD.
+
+Um data center é uma instalação que fornece acesso compartilhado a aplicativos e dados usando uma infraestrutura complexa de rede, 
+computação e armazenamento. Os padrões da indústria existem para auxiliar no projeto, construção e manutenção 
+de instalações e infraestruturas de data centers para garantir que os dados estejam seguros e altamente disponíveis.
+
+"O Data Center do controlador é o local onde rodam os sistemas nos quais são instalados e mantidos os dados, 
+é essa a estrutura que deve, prioritariamente, operar com base nos preceitos da LGPD."
+Fonte: https://odatacolocation.com/blog/lgpd-para-datacenters/
+
+Os formatos de arquivo podem ser proprietários, como Microsoft Excel e Adobe PDF, ou abertos, como valores separados por vírgula (CSV) ou Open 
+Document Format (ODF). Os melhores formatos para coleta e análise de dados podem não ser os formatos mais adequados para preservação de dados a longo prazo.
+Fonte: https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
+
+Um formato de arquivo aberto é um formato de arquivo para armazenar dados digitais, definido por uma especificação publicada abertamente, isso seria
+referente à dados públicos,
+geralmente mantida por uma organização de padrões e que pode ser usada e implementada por qualquer pessoa. 
+O formato de arquivo aberto é licenciado com licença aberta.
+Um formato de arquivo proprietário é aquele que uma empresa possui e controla. Dados neste formato podem precisar de software proprietário para serem lidos 
+de forma confiável. Aqui eles não são dados públicos, são dados privados que devem ser mantidos em sigílo.
+Ao contrário de um formato aberto (dados públicos), 
+a descrição do formato pode ser confidencial ou inédita, podendo ser alterada pela empresa a qualquer momento.
+
+Os dados públicos podem ser definidos como todas as informações de domínio público, abrangendo qualquer coisa, desde um conjunto de dados 
+de atualização mensal em um portal de dados do governo 
+até arquivos PDF que só são acessíveis por meio de solicitações de liberdade de informação (e tudo mais). 
+Dados abertos são, por definição, fáceis de acessar.
+
+"Deve ser tratada considerando a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização. A LGPD define, 
+por exemplo, que uma organização pode, sem precisar pedir novo consentimento, tratar dados tornados anterior e manifestamente públicos pelo titular."
+Fonte: https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-publicos-lgpd#:~:text=O%20que%20s%C3%A3o%20dados%20p%C3%BAblicos%2C%20segundo%20a%20LGPD&text=Deve%20ser%20tratada%20considerando%20a,e%20manifestamente%20p%C3%BAblicos%20pelo%20titular.
+
+Dados públicos são relacionados à um formato de arquivo aberto pois esse é definido como uma especificação publicada abertamente, tem uma licença aberta.
