@@ -21,22 +21,25 @@ Os formatos de arquivo podem ser proprietários, como Microsoft Excel e Adobe PD
 Document Format (ODF). Os melhores formatos para coleta e análise de dados podem não ser os formatos mais adequados para preservação de dados a longo prazo.
 Fonte: https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
 
-Um formato de arquivo aberto é um formato de arquivo para armazenar dados digitais, definido por uma especificação publicada abertamente, isso seria
+Um formato de arquivo aberto é um formato de arquivo para armazenar dados digitais, definido por uma especificação publicada abertamente, isso deveria ser
 referente à dados públicos,
 geralmente mantida por uma organização de padrões e que pode ser usada e implementada por qualquer pessoa. 
 O formato de arquivo aberto é licenciado com licença aberta.
 Um formato de arquivo proprietário é aquele que uma empresa possui e controla. Dados neste formato podem precisar de software proprietário para serem lidos 
-de forma confiável. Aqui eles não são dados públicos, são dados privados que devem ser mantidos em sigílo.
-Ao contrário de um formato aberto (dados públicos), 
-a descrição do formato pode ser confidencial ou inédita, podendo ser alterada pela empresa a qualquer momento.
+de forma confiável. 
+Ao contrário de um formato aberto, a descrição do formato de arquivo proprietário
+pode ser confidencial ou inédita, podendo ser alterada pela empresa a qualquer momento. A impresa diz que é mais seguro guardar os dados com eles, mas isso 
+não é verdade. É mais seguro o formato aberto por conta dele ser público, ele é mais visto, e isso é bom pois se acontecer alguma coisa isso será visto.
+Quando o formato de arquivo é proprietário, você fica refém das empresas, pois você precisa confiar 100% nelas.
 
 Os dados públicos podem ser definidos como todas as informações de domínio público, abrangendo qualquer coisa, desde um conjunto de dados 
 de atualização mensal em um portal de dados do governo 
 até arquivos PDF que só são acessíveis por meio de solicitações de liberdade de informação (e tudo mais). 
-Dados abertos são, por definição, fáceis de acessar.
+Dados abertos são, por definição, fáceis de acessar. Todo público deveria ter acesso a esses dados.
 
 "Deve ser tratada considerando a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização. A LGPD define, 
 por exemplo, que uma organização pode, sem precisar pedir novo consentimento, tratar dados tornados anterior e manifestamente públicos pelo titular."
 Fonte: https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-publicos-lgpd#:~:text=O%20que%20s%C3%A3o%20dados%20p%C3%BAblicos%2C%20segundo%20a%20LGPD&text=Deve%20ser%20tratada%20considerando%20a,e%20manifestamente%20p%C3%BAblicos%20pelo%20titular.
 
-Dados públicos são relacionados à um formato de arquivo aberto pois esse é definido como uma especificação publicada abertamente, tem uma licença aberta.
+Dados públicos deveriam ser relacionados à um formato de arquivo aberto pois esse é definido como uma especificação publicada abertamente, tem uma licença aberta.
+Os dados públicos deveriam ser disponibilisados em formato aberto.
