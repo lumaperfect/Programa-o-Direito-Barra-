@@ -1,3 +1,55 @@
-  jAVA, PYTHON, php- 3 LINGUAGENS DE PROGRAMAÇÃO
+Java, Python, PHP: 3 Linguagens de programação
   
-  Fazer programa básico no chat GPT
+Java é uma linguagem de programação amplamente usada para codificar aplicativos da web. 
+Tem sido uma escolha popular entre os desenvolvedores por mais de duas décadas, com milhões 
+de aplicativos Java em uso hoje. 
+Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si.  
+
+Python é uma linguagem de programação de computador frequentemente usada para construir sites e softwares, automatizar tarefas e realizar análises de dados. 
+Python é uma linguagem de uso geral, 
+o que significa que pode ser usada para criar uma variedade de programas diferentes e não é especializada em nenhum problema específico.
+Métodos de programação funcional são suportados e mais seguro com recursos integrados de segurança cibernética.
+
+PHP (acrônimo recursivo para PHP: Hypertext Preprocessor ) é uma 
+linguagem de script de uso geral de software livre amplamente usada, 
+especialmente adequada para desenvolvimento da Web e que pode ser incorporada ao HTML.
+Sem paradigmas funcionais e muitos ataques de segurança foram testemunhados.
+
+Python é uma linguagem de programação interpretada, na qual o programa pode ser executado usando um interpretador Python. 
+Java é uma linguagem compilada. 
+O código compilado é convertido em bytecode e pode ser executado em qualquer plataforma que possua Java Virtual Machine (JVM).
+PHP é uma linguagem de script do lado do servidor orientada a objetos. PHP é uma linguagem tipada dinâmica e fraca.
+
+Java
+Compile:
+Run:
+Informe o primeiro número: 2
+Informe o segundo número: 4
+O menor número é: 2
+CONSTRUÍDO COM SUCESSO (tempo total 20 segundos)
+
+Python
+#INÍCIO
+print ("Primeira vez usando python")
+x=1
+y=2
+if x==1 :
+  print ("x=1")
+    if y==2 :
+      print ("x=1 e y=2")
+      
+PHP
+<html>
+<head>
+  <title>PHP - Aula de programação e direito</title>
+</head>
+<body>
+  <?
+    echo "Exemplo de um programa PHP";
+  ?>
+</body>
+</html>
+
+Todos os códigos foram executados com sucesso! 
+      
+    
