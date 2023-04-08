@@ -1,0 +1,197 @@
+1) No contexto da ubiquidade da computação, explique brevemente porque é vantajoso dominar seus conceitos fundamentais ao lidar com o Direito.
+
+Adianta, moderniza. Uso de jurometria, algorítimo sobre aposentaria, liberdade de expressão em rede social, tudo isso é conceito da computação (compreender o que ta acontecendo agora). O uso dos dados (LGPD) tem uma grande relação com dados, computação e como eles são armazenados. Um outro ponto seria que poderíamos influenciar (política pública) isso por ter conhecimento dessa área, fazer um mundo com mais justiça, mais justo por ter esses conhecimentos. Ter um conhecimento maior sobre privacidade, dados, segurança vai ampliar nosso conhecimento sobre leis específicas, como por exemplo a LGPD, entender como realmente funciona. 
+
+2) Muitos termos são usados no nosso cotidiano com um significado, mas apresentam outro, geralmente mais preciso, em determinada área do conhecimento. Não seria diferente com os termos da computação. Considerando esse fato, explique o que significa, na área da computação, os seguintes termos: 
+a) algoritmo; Um algorítimo é um procedimento usado resolver um problema ou executar uma computação, eles agem como uma lista exata de instruções que conduzem ações especificadas passo a passo em rotinas baseadas em hardware ou software. Amplamente usados em todas as áreas de TI.
+
+Uma sequência finita de passos com objetivo de realizar tarefas.
+
+b) nuvem; A computação em nuvem é uma forma de computação na qual redes, armazenamento de dados, aplicativos, ferramentas de segurança e desenvolvimento são ativados via internet, em oposição a um computador local ou servidor local em sua organização.
+
+É um conujunto de servidores conectados a internet que servem para armazenar documentos.
+
+
+c) servidor; pode dependendo do nível de abstração, pode ser um computador muito poderoso, ou um sistema de computador que serve para muitos usuários, ou um programa servidor. Pode ser um computador ou um programa. 
+
+Pode ser um programa de um computador para prestar serviços para outros.
+
+d) neutralidade da rede; A neutralidade da rede diz que todos os dados que trafegam na rede devem ser tratados da mesma forma e com a mesma velocidade. Nâo priveligiar nenhum tráfego de dados.
+
+Princípio de não privilegiar nenhum tráfego de dados.
+
+e) arquivo é uma sequência de bytes ou de dados que você nomeia, armazena, manipula. 
+Conjunto organizado de dados que você da um nome pra ele.
+
+3) A realidade é infinitamente complexa e o mundo é multifacetado. Dito isso, explique como podemos organizar na palavra Internet conceitos diferentes como máquinas, cabos, programas e dados?
+
+Estamos falando de níveis diferentes de abstração. Tudo depende do nível de abstração que estamos nos referindo. Porque olhamos tudo com níveis de abstrações diferentes. A mesma palavra pode significar várias coisas. Tudo isso está conectado e faz parte da mesma coisa, tudo isso faz parte da internet mas as vezes a pessoa vê só um lado. 
+
+ 4) Sabendo que computadores precisam ser programados precisamente para realizar suas tarefas, e que, então, só repetiriam o que humanos já sabem fazer, por que eles foram inventados? 
+
+Pra facilitar a vida dos humanos, ajudar no dia dia, agilizar, eles são muito rápidos e processam mais rápido do que o cérebro humano. Os computadores são mais eficientes, mais rápidos, eles gastam menos tempo processando algo do que nós humanos gastaríamos, fazendo uma conta por exemplo. 
+
+5) Por que uma rede neural artificial não pode ser a única responsável por tomar decisões médicas ou de concessão de empréstimos, por exemplo. Existe algum algoritmo ou modelo de IA que pode ser o único responsável em algum dos casos em pauta? Se sim, por que e qual? 
+
+Porque ela não consegue justificar a decisão que ela tomou e o outro motivo é que você não pode responsabilizar um algoritmo por uma decisão médica por exemplo. Nenhum algoritmo pode ser responsável em momento nenhum por decisão médica. Alguns algoritmos podem ser usados para de justificar, por exemplo uma árvore de decisão para tomar decisão sobre empréstimo e você consegue dizer o porque você negou. Mas NUNCA decisão médica. 
+
+6) O que diferencia um arquivo “binário” de um arquivo “de texto”?
+
+Um arquivo binário precisa da regra de formação de ser lido e o de texto é só carácteres, a regra de formação é conhecida. Todos os arquivos são binários, todos são uma sequência de bytes. Arquivos de texto só representam carácteres e a regra de formação é conhecida. Os de texto o bytes representam sempre carácteres. Binário todos os arquivos são. Todos os arquivos são binários e alguns deles chamamos de texto. É tudo 01, o arquivo de texto diz q uma quantidade de 0 e de um vira um texto. O arquivo binário pode virar letra também mas os programas não sabe como, o binário vc precisa saber a regra de formação dele pra poder ler. O de texto é padrão e só contém carácteres, nada além disso.
+
+ 7) O que diferencia um formato de arquivo proprietário e um formato de arquivo aberto. Contextualize no cenário da divulgação e manutenção de dados públicos. 
+
+O dado público tem que ser em formato aberto para não perder um acesso a dados que são públicos. 
+Um formato de arquivo aberto é um formato de arquivo para armazenar dados digitais, definido por uma especificação publicada abertamente, isso deveria ser
+
+
+
+
+
+
+
+
+referente à dados públicos,
+
+
+
+
+
+
+geralmente mantida por uma organização de padrões e que pode ser usada e implementada por qualquer pessoa.
+
+
+
+
+
+
+O formato de arquivo aberto é licenciado com licença aberta.
+
+
+
+
+
+
+Um formato de arquivo proprietário é aquele que uma empresa possui e controla. Dados neste formato podem precisar de software proprietário para serem lidos
+
+
+
+
+
+
+de forma confiável.
+
+
+
+
+
+
+Ao contrário de um formato aberto, a descrição do formato de arquivo proprietário
+
+
+
+
+
+
+pode ser confidencial ou inédita, podendo ser alterada pela empresa a qualquer momento. A impresa diz que é mais seguro guardar os dados com eles, mas isso
+
+
+
+
+
+
+não é verdade. É mais seguro o formato aberto por conta dele ser público, ele é mais visto, e isso é bom pois se acontecer alguma coisa isso será visto.
+
+
+
+
+
+
+Dados públicos deveriam ser relacionados à um formato de arquivo aberto pois esse é definido como uma especificação publicada abertamente, tem uma licença aberta.
+
+
+
+
+
+
+
+
+Os dados públicos podem ser definidos como todas as informações de domínio público, abrangendo qualquer coisa, desde um conjunto de dados
+
+
+
+
+
+
+
+
+de atualização mensal em um portal de dados do governo
+
+
+
+
+
+
+até arquivos PDF que só são acessíveis por meio de solicitações de liberdade de informação (e tudo mais).
+
+
+
+
+
+
+Dados abertos são, por definição, fáceis de acessar. Todo público deveria ter acesso a esses dados.
+
+O dado público: exemplo diário oficial da união. Todos os dados oriundos da ação, do governo. 
+
+8) O que diferencia, no contexto da computação, um protocolo de comunicação aberto de um protocolo de comunicação proprietário? Contextualize no cenário da liberdade econômica e do desenvolvimento de novas aplicações para internet. 
+
+É importante contextualizar isso no cenário de liberdade econômica. O qq isos tem a ver com liberdade econômica? 
+
+Um protocolo de comunicação aberta (pode ser implementado por qualquer interessado) é diferente de um proprietário, o aberto é público, o proprietário (controlado por uma empresa ou detentor dos direitos sobre ele) só quem tem direitos do formato podem usar. 
+
+A liberdade econômica, de empreender, nesse caso vc fica impedido de empreender porque voce fica dependente dos proprietários dos direitos dos protocolos. Os protocolos foram feitos para qualquer um criar um negócio e isso chegar na casa de todo mundo sem filtro. O proprietário dificulta encarecendo e restringindo o acesso dos novos entrantes. A pessoa não consegue criar uma empresa nova porque voce depende daquele protocolo. 
+
+A liberdade econômica ela parte da premissa que todo mundo compete e impede igualdade. O trafego da sua rede social deveria ter a mesma prioridade que o facebook, e qualquer navegador ia entrar na sua rede social, porque os protocolos são abertos. O fechado voce paga pra usar o direito de abrir.   
+
+9) Sobre o “sistema operacional”: 
+a) O que é um sistema operacional e qual a sua relação com os programas do computador e seus componentes físicos? 
+Sistema operacional é um sistema (programa) que permite que outros programas usem o computador. O sistema é uma camada que da uma interface entre os programas e o computador físico. Cada monitor é fabricado e precisa de uma coisa pra funcionar. O sistema operacional é uma camada de abstração entre o computador físico e os programas. 
+b) Existe apenas um sistema operacional disponível? 
+Existem vários sistemas operacionais disponiveis, como exemplo o windows…
+c) Vender computadores obrigatoriamente ativados com um sistema operacional pode ser considerado “venda casada”? Explique. 
+Sim (ver resposta Marcelo) 
+Aqui no Brasil tem um conceito que elimina a venda casada, você não pode considerar que vender um carro com pneus é uma venda casada. Qual é a jurisprudência disso? O que é discutido?
+
+Venda casada consiste em condicionar a compra de um produto ou serviço à aquisição de outro, sem que haja necessidade ou interesse por parte do comprador. A prática é considerada ilegal no Brasil, de acordo com o Código de Defesa do Consumidor (CDC). Se for essencial não é venda casada, exemplo vender um carro com pneu. A DELL por exemplo força voce ganhar o windows. Aqui no Brasil não é classificado venda casada pois a justiça não entende. Essa resposta depende. 
+
+10) Sobre a LGPD:
+a) Sua abrangência inclui datacenters em países estrangeiros? Explique. 
+Sim
+
+Pelo primeiro artigo da LGDP, não importa se a sede de uma organização ou o seu Data Center estão localizados no exterior ou até mesmo no Brasil,
+
+
+
+
+todos estão sujeitos à regulação, independentemente se os dados são tratados em meio digital ou físico.
+
+
+Pode ser observado todas as empresas que tratam dados pessoais no território brasileiro ou de pessoas nele localizadas,
+
+
+com poucas exceções específicas, devem se adequar às regras da LGPD.
+
+
+
+
+
+
+
+A LGPD aplica pro mundo todo porque ela abarca dados produzidos no Brasil ou de brasileiros. 
+b) Na sua opinião, os servidores de aplicação agem de maneira adequada atualmente: 
+
+1) no tocante ao conteúdo em desacordo com suas regras de comunidade? Explique. 
+Sim pois tira do ar as coisas que estão de acordo com o que ele determinou. Se o instagram por exemplo tem regras, elas tem que ser seguidas pra usar o aplicativo. 
+
+2) em relação ao conteúdo que destrói reputações, sabidamente falso? Explique.
+O conteúdo que destrói reputação não tem volta. A pessoa se suicida, a empresa perde dinheiro, o psicológico da pessoa fica ferrado… Fake news. Pode ter uma lei que regula, mas não pode proibir a postagem. O instagram quando é mentira diz o que ele acha. O teelgram paga multas para manter o que eles acreditam por exemplo. 
