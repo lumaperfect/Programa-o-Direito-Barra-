@@ -1,0 +1,15 @@
+O Python sempre avaliará os operadores aritméticos primeiro (** é o mais alto, depois a multiplicação/divisão e depois a adição/subtração). 
+Em seguida, vêm os operadores relacionais. Finalmente, os operadores lógicos são feitos por último.
+
+Como você altera a ordem das operações em Python?
+Para avaliar esses tipos de expressões existe uma regra de precedência em Python. Ele orienta a ordem em que essas operações são realizadas. 
+Por exemplo, a multiplicação tem maior precedência do que a subtração. 
+Mas podemos alterar essa ordem usando parênteses (), pois tem precedência maior que a multiplicação.
+
+Regra de Precedência dos Operadores Python - PEMDAS
+P – Parênteses.
+E – Exponenciação.
+M – Multiplicação.
+D – Divisão.
+A – Acréscimo.
+S – Subtração.
